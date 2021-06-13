@@ -12,3 +12,4 @@ git push --set-upstream origin develop
 git commit -m <message>
 git log
 git tag
+git pull
