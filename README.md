@@ -15,5 +15,5 @@ git tag
 git fetch
 git merge
 git pull
-git
 git diff
+git add
