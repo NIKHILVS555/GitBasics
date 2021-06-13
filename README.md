@@ -13,3 +13,4 @@ git commit -m <message>
 git log
 git tag
 git pull
+git
